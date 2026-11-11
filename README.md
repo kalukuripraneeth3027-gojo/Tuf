@@ -200,7 +200,7 @@ footer{border-top:1px solid var(--line);padding:24px 0 40px;font:400 11px var(--
   <div class="rows">
     <div class="row on"><div>2025 – now<small>2nd year</small></div><div><b>CITD, Hyderabad</b><br>Diploma in Electronics &amp; Communication Engineering</div></div>
     <div class="row"><div>Before 2025<small>School</small></div><div><b>Sri Venkateswara Bala Kuteer</b><br>Guntur, Andhra Pradesh</div></div>
-    <div class="row"><div>Goal<small>2028 and beyond</small></div><div><b>VLSI RTL design startup</b><br>Learning the digital design skills to get there</div></div>
+    <div class="row"><div>Goal<small>2030 and beyond</small></div><div><b>VLSI RTL design startup</b><br>Learning the digital design skills to get there</div></div>
   </div>
   <p class="total">Still studying, <em>building my foundation</em></p>
 </section>
